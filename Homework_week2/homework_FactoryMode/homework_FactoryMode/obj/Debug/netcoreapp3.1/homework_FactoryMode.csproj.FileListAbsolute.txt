@@ -1,0 +1,17 @@
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\obj\Debug\netcoreapp3.1\homework_FactoryMode.csprojAssemblyReference.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\obj\Debug\netcoreapp3.1\homework_FactoryMode.AssemblyInfoInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\obj\Debug\netcoreapp3.1\homework_FactoryMode.AssemblyInfo.cs
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\obj\Debug\netcoreapp3.1\homework_FactoryMode.csproj.CoreCompileInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\bin\Debug\netcoreapp3.1\homework_shape.exe
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\bin\Debug\netcoreapp3.1\homework_FactoryMode.exe
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\bin\Debug\netcoreapp3.1\homework_FactoryMode.deps.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\bin\Debug\netcoreapp3.1\homework_FactoryMode.runtimeconfig.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\bin\Debug\netcoreapp3.1\homework_FactoryMode.runtimeconfig.dev.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\bin\Debug\netcoreapp3.1\homework_FactoryMode.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\bin\Debug\netcoreapp3.1\homework_FactoryMode.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\bin\Debug\netcoreapp3.1\homework_shape.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\bin\Debug\netcoreapp3.1\homework_shape.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\obj\Debug\netcoreapp3.1\homework_FactoryMode.csproj.CopyComplete
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\obj\Debug\netcoreapp3.1\homework_FactoryMode.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\obj\Debug\netcoreapp3.1\homework_FactoryMode.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework_FactoryMode\homework_FactoryMode\obj\Debug\netcoreapp3.1\homework_FactoryMode.genruntimeconfig.cache

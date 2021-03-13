@@ -1,0 +1,12 @@
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_Array_Processor\homework2_Array_Processor\bin\Debug\netcoreapp3.1\homework2_Array_Processor.exe
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_Array_Processor\homework2_Array_Processor\bin\Debug\netcoreapp3.1\homework2_Array_Processor.deps.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_Array_Processor\homework2_Array_Processor\bin\Debug\netcoreapp3.1\homework2_Array_Processor.runtimeconfig.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_Array_Processor\homework2_Array_Processor\bin\Debug\netcoreapp3.1\homework2_Array_Processor.runtimeconfig.dev.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_Array_Processor\homework2_Array_Processor\bin\Debug\netcoreapp3.1\homework2_Array_Processor.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_Array_Processor\homework2_Array_Processor\bin\Debug\netcoreapp3.1\homework2_Array_Processor.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_Array_Processor\homework2_Array_Processor\obj\Debug\netcoreapp3.1\homework2_Array_Processor.AssemblyInfoInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_Array_Processor\homework2_Array_Processor\obj\Debug\netcoreapp3.1\homework2_Array_Processor.AssemblyInfo.cs
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_Array_Processor\homework2_Array_Processor\obj\Debug\netcoreapp3.1\homework2_Array_Processor.csproj.CoreCompileInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_Array_Processor\homework2_Array_Processor\obj\Debug\netcoreapp3.1\homework2_Array_Processor.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_Array_Processor\homework2_Array_Processor\obj\Debug\netcoreapp3.1\homework2_Array_Processor.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_Array_Processor\homework2_Array_Processor\obj\Debug\netcoreapp3.1\homework2_Array_Processor.genruntimeconfig.cache

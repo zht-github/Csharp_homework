@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework_FactoryMode", "homework_FactoryMode\homework_FactoryMode.csproj", "{3682C1B7-EB43-4B6D-B2A2-27FD98D7A6B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework_shape", "..\homework2_shape\homework2_shape\homework_shape.csproj", "{74B67EFC-AA52-4A71-AC23-490B5887FCB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3682C1B7-EB43-4B6D-B2A2-27FD98D7A6B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3682C1B7-EB43-4B6D-B2A2-27FD98D7A6B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3682C1B7-EB43-4B6D-B2A2-27FD98D7A6B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3682C1B7-EB43-4B6D-B2A2-27FD98D7A6B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B67EFC-AA52-4A71-AC23-490B5887FCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B67EFC-AA52-4A71-AC23-490B5887FCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B67EFC-AA52-4A71-AC23-490B5887FCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B67EFC-AA52-4A71-AC23-490B5887FCB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE4E3967-0180-48E4-9422-8076C7F49F2E}
+	EndGlobalSection
+EndGlobal

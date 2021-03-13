@@ -1,0 +1,13 @@
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\obj\Debug\netcoreapp3.1\homework1_prime_elements.csprojAssemblyReference.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\obj\Debug\netcoreapp3.1\homework1_prime_elements.AssemblyInfoInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\obj\Debug\netcoreapp3.1\homework1_prime_elements.AssemblyInfo.cs
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\obj\Debug\netcoreapp3.1\homework1_prime_elements.csproj.CoreCompileInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\bin\Debug\netcoreapp3.1\homework1_prime_elements.exe
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\bin\Debug\netcoreapp3.1\homework1_prime_elements.deps.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\bin\Debug\netcoreapp3.1\homework1_prime_elements.runtimeconfig.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\bin\Debug\netcoreapp3.1\homework1_prime_elements.runtimeconfig.dev.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\bin\Debug\netcoreapp3.1\homework1_prime_elements.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\bin\Debug\netcoreapp3.1\homework1_prime_elements.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\obj\Debug\netcoreapp3.1\homework1_prime_elements.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\obj\Debug\netcoreapp3.1\homework1_prime_elements.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework1_prime_elements\homework1_prime_elements\obj\Debug\netcoreapp3.1\homework1_prime_elements.genruntimeconfig.cache

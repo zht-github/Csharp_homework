@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "homework1_prime_elements/1.0.0": {
+        "runtime": {
+          "homework1_prime_elements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "homework1_prime_elements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

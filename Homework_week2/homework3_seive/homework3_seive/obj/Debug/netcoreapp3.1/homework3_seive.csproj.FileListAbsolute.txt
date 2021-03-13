@@ -1,0 +1,13 @@
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\bin\Debug\netcoreapp3.1\homework3_seive.exe
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\bin\Debug\netcoreapp3.1\homework3_seive.deps.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\bin\Debug\netcoreapp3.1\homework3_seive.runtimeconfig.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\bin\Debug\netcoreapp3.1\homework3_seive.runtimeconfig.dev.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\bin\Debug\netcoreapp3.1\homework3_seive.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\bin\Debug\netcoreapp3.1\homework3_seive.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\obj\Debug\netcoreapp3.1\homework3_seive.csprojAssemblyReference.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\obj\Debug\netcoreapp3.1\homework3_seive.AssemblyInfoInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\obj\Debug\netcoreapp3.1\homework3_seive.AssemblyInfo.cs
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\obj\Debug\netcoreapp3.1\homework3_seive.csproj.CoreCompileInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\obj\Debug\netcoreapp3.1\homework3_seive.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\obj\Debug\netcoreapp3.1\homework3_seive.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_seive\homework3_seive\obj\Debug\netcoreapp3.1\homework3_seive.genruntimeconfig.cache

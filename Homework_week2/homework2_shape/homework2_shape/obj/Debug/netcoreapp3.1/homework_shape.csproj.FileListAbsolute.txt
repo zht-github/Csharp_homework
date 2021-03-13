@@ -1,0 +1,13 @@
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\bin\Debug\netcoreapp3.1\homework_shape.exe
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\bin\Debug\netcoreapp3.1\homework_shape.deps.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\bin\Debug\netcoreapp3.1\homework_shape.runtimeconfig.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\bin\Debug\netcoreapp3.1\homework_shape.runtimeconfig.dev.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\bin\Debug\netcoreapp3.1\homework_shape.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\bin\Debug\netcoreapp3.1\homework_shape.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\obj\Debug\netcoreapp3.1\homework_shape.csprojAssemblyReference.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\obj\Debug\netcoreapp3.1\homework_shape.AssemblyInfoInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\obj\Debug\netcoreapp3.1\homework_shape.AssemblyInfo.cs
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\obj\Debug\netcoreapp3.1\homework_shape.csproj.CoreCompileInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\obj\Debug\netcoreapp3.1\homework_shape.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\obj\Debug\netcoreapp3.1\homework_shape.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework2_shape\homework2_shape\obj\Debug\netcoreapp3.1\homework_shape.genruntimeconfig.cache
