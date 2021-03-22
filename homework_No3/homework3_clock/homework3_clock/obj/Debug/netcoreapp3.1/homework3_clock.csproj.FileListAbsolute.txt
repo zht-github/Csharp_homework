@@ -1,0 +1,13 @@
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\bin\Debug\netcoreapp3.1\homework3_clock.exe
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\bin\Debug\netcoreapp3.1\homework3_clock.deps.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\bin\Debug\netcoreapp3.1\homework3_clock.runtimeconfig.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\bin\Debug\netcoreapp3.1\homework3_clock.runtimeconfig.dev.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\bin\Debug\netcoreapp3.1\homework3_clock.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\bin\Debug\netcoreapp3.1\homework3_clock.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\obj\Debug\netcoreapp3.1\homework3_clock.csprojAssemblyReference.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\obj\Debug\netcoreapp3.1\homework3_clock.AssemblyInfoInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\obj\Debug\netcoreapp3.1\homework3_clock.AssemblyInfo.cs
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\obj\Debug\netcoreapp3.1\homework3_clock.csproj.CoreCompileInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\obj\Debug\netcoreapp3.1\homework3_clock.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\obj\Debug\netcoreapp3.1\homework3_clock.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_clock\homework3_clock\obj\Debug\netcoreapp3.1\homework3_clock.genruntimeconfig.cache

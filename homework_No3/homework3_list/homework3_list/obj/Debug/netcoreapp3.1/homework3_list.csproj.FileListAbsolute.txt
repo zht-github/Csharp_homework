@@ -1,0 +1,13 @@
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\bin\Debug\netcoreapp3.1\homework3_list.exe
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\bin\Debug\netcoreapp3.1\homework3_list.deps.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\bin\Debug\netcoreapp3.1\homework3_list.runtimeconfig.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\bin\Debug\netcoreapp3.1\homework3_list.runtimeconfig.dev.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\bin\Debug\netcoreapp3.1\homework3_list.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\bin\Debug\netcoreapp3.1\homework3_list.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\obj\Debug\netcoreapp3.1\homework3_list.csprojAssemblyReference.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\obj\Debug\netcoreapp3.1\homework3_list.AssemblyInfoInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\obj\Debug\netcoreapp3.1\homework3_list.AssemblyInfo.cs
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\obj\Debug\netcoreapp3.1\homework3_list.csproj.CoreCompileInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\obj\Debug\netcoreapp3.1\homework3_list.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\obj\Debug\netcoreapp3.1\homework3_list.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_week2\homework3_list\homework3_list\obj\Debug\netcoreapp3.1\homework3_list.genruntimeconfig.cache
