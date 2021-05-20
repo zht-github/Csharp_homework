@@ -1,0 +1,13 @@
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\bin\Debug\netcoreapp3.1\OrderSystem_Extension.exe
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\bin\Debug\netcoreapp3.1\OrderSystem_Extension.deps.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\bin\Debug\netcoreapp3.1\OrderSystem_Extension.runtimeconfig.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\bin\Debug\netcoreapp3.1\OrderSystem_Extension.runtimeconfig.dev.json
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\bin\Debug\netcoreapp3.1\OrderSystem_Extension.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\bin\Debug\netcoreapp3.1\OrderSystem_Extension.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\obj\Debug\netcoreapp3.1\OrderSystem_Extension.csprojAssemblyReference.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\obj\Debug\netcoreapp3.1\OrderSystem_Extension.AssemblyInfoInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\obj\Debug\netcoreapp3.1\OrderSystem_Extension.AssemblyInfo.cs
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\obj\Debug\netcoreapp3.1\OrderSystem_Extension.csproj.CoreCompileInputs.cache
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\obj\Debug\netcoreapp3.1\OrderSystem_Extension.dll
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\obj\Debug\netcoreapp3.1\OrderSystem_Extension.pdb
+C:\Users\张海涛\source\repos\zht-github\zht_Csharp_homework\Homework_No5\OrderSystem_Extension\OrderSystem_Extension\obj\Debug\netcoreapp3.1\OrderSystem_Extension.genruntimeconfig.cache

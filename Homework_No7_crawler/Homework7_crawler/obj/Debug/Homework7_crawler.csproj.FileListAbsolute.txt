@@ -1,0 +1,10 @@
+C:\Users\张海涛\source\repos\Homework7_crawler\Homework7_crawler\bin\Debug\Homework7_crawler.exe.config
+C:\Users\张海涛\source\repos\Homework7_crawler\Homework7_crawler\bin\Debug\Homework7_crawler.exe
+C:\Users\张海涛\source\repos\Homework7_crawler\Homework7_crawler\bin\Debug\Homework7_crawler.pdb
+C:\Users\张海涛\source\repos\Homework7_crawler\Homework7_crawler\obj\Debug\Homework7_crawler.csprojAssemblyReference.cache
+C:\Users\张海涛\source\repos\Homework7_crawler\Homework7_crawler\obj\Debug\Homework7_crawler.Form1.resources
+C:\Users\张海涛\source\repos\Homework7_crawler\Homework7_crawler\obj\Debug\Homework7_crawler.Properties.Resources.resources
+C:\Users\张海涛\source\repos\Homework7_crawler\Homework7_crawler\obj\Debug\Homework7_crawler.csproj.GenerateResource.cache
+C:\Users\张海涛\source\repos\Homework7_crawler\Homework7_crawler\obj\Debug\Homework7_crawler.csproj.CoreCompileInputs.cache
+C:\Users\张海涛\source\repos\Homework7_crawler\Homework7_crawler\obj\Debug\Homework7_crawler.exe
+C:\Users\张海涛\source\repos\Homework7_crawler\Homework7_crawler\obj\Debug\Homework7_crawler.pdb
